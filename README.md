@@ -1,4 +1,4 @@
-# anade-bada.github.io
+# Sobre mi
 Analista de Datos | Especialista en Formación y Desarrollo Organizacional
 
 Profesional con sólida experiencia liderando proyectos formativos a nivel nacional en sectores educativo, salud y corporativo. Experta en investigación de campo, desarrollo de contenidos estratégicos y coordinación de equipos multidisciplinarios. Mi transición al análisis de datos combina mi expertise en investigación cualitativa con nuevas competencias técnicas para generar insights que impulsen el impacto social y organizacional.
